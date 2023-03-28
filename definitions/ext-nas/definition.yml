@@ -18,6 +18,8 @@ goldenTags:
 - device_ip
 
 dashboardTemplates:
+  kentik:
+    template: default-dashboard.json
   kentik/readynas:
     template: readynas-dashboard.json
   kentik/netapp-cluster:
